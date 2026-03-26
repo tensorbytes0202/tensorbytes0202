@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aditya Sikarwar</h1>
-<h3 align="center">🚀 AI Engineer | Machine Learning Enthusiast | Building Real-World AI Systems</h3>
+<h1 align="center">🚀 Aditya Sikarwar</h1>
+<h3 align="center">AI Engineer | Machine Learning | Deep Learning | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tensorbytes0202&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=tensorbytes0202&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/tensorbytes0202?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Engineering student specializing in **Artificial Intelligence**
-- 🤖 Passionate about **Machine Learning, Deep Learning & Generative AI**
-- 🚀 Building projects in:
-  - Computer Vision
-  - NLP (Transformers, BERT, RAG)
-  - AI Agents & Automation
-- 💡 I love turning **ideas → real working products**
-- 📈 Currently improving **DSA + System Design + ML depth**
+🚀 I am an AI-focused engineering student passionate about building **real-world intelligent systems**.
+
+- 🤖 Working on **AI Agents, Computer Vision & LLMs**
+- 🧠 Strong interest in **Deep Learning & Transformers**
+- ⚡ Love converting ideas into **working AI products**
+- 📈 Currently improving **DSA + System Design + MLOps**
 
 ---
 
@@ -26,79 +25,108 @@
 `Python` `C++` `JavaScript`
 
 ### 🤖 AI / ML
-`PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` `Transformers (HuggingFace)`
+`PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` `HuggingFace Transformers`
 
-### 🧠 Specializations
-- Computer Vision (CNN, YOLO)
-- NLP (BERT, LLMs, RAG)
+### 🧠 Core Domains
+- Computer Vision (YOLO, CNN)
+- NLP (BERT, RAG, LLMs)
 - Deep Learning
 - AI Agents
 
-### ⚙️ Tools
-`Git` `Docker` `VS Code` `Google Colab`
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `Docker` `VS Code` `Google Colab`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Jarvis AI Agent
-- Built an AI assistant inspired by **Jarvis**
-- Handles commands, automation & interactions  
-- Focus: AI Agents + Real-time interaction  
+### 🤖 Jarvis AI Agent
+> AI-powered assistant inspired by Jarvis
+
+- Voice & command-based automation  
+- Real-time interaction system  
+- Built using Python & AI logic  
 
 ---
 
-### 🔹 Medical Diagnosis Multimodal Chatbot
-- Combines **text + image understanding**
-- Helps in disease prediction & insights  
-- Focus: Multimodal AI  
+### 🏥 Medical Diagnosis Multimodal Chatbot
+> AI system combining text + image understanding
+
+- Multimodal learning approach  
+- Healthcare-focused intelligent predictions  
+- Real-world problem solving  
 
 ---
 
-### 🔹 YOLO-based Object Detection
-- Real-time object detection system  
-- Built using deep learning models  
-- Focus: Computer Vision  
+### 🎯 YOLO Object Detection System
+> Real-time detection using deep learning
+
+- Built with YOLO architecture  
+- High-performance CV system  
+- Practical deployment-ready pipeline  
 
 ---
 
-### 🔹 RAG Pipelines
-- Built Retrieval-Augmented Generation systems  
-- Combines LLMs + custom knowledge base  
-- Focus: LLM Engineering  
+### 🧠 RAG Pipelines (LLM Engineering)
+> Retrieval-Augmented Generation system
+
+- LLM + custom knowledge integration  
+- Context-aware responses  
+- Scalable AI pipeline design  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tensorbytes0202&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tensorbytes0202&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tensorbytes0202&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tensorbytes0202&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensorbytes0202&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🧠 Contribution Graph
 
-- 🔥 Mastering **Transformers & LLMs**
-- 🧠 Building **Production-level AI Projects**
-- 📦 Learning **MLOps & Deployment**
-- 📚 Preparing for **Internships & AI Roles**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensorbytes0202&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 What I Bring
+
+✔️ Strong fundamentals in AI & ML  
+✔️ Hands-on experience with real-world projects  
+✔️ Ability to design end-to-end AI systems  
+✔️ Fast learner & problem solver  
+
+---
+
+## 📈 Current Focus
+
+- 🔥 Transformers & LLM mastery  
+- 🧠 Advanced Deep Learning  
+- ⚙️ MLOps & Deployment  
+- 💼 Preparing for AI Internships  
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-- 🌐 Portfolio: (optional)
+- 💼 LinkedIn: *Add your link*
+- 📧 Email: *Add your email*
+- 🌐 Portfolio: *Optional*
 
 ---
 
-## 💡 Fun Fact
+## 💡 Developer Mindset
 
-> I don't just learn AI… I build things that actually work 🚀
+> “I don’t just learn AI — I build systems that solve real problems.”
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ If you like my work, consider giving a star!
