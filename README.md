@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Aditya Sikarwar</h1>
-<h3 align="center">AI Engineer | Building Intelligent Systems with AI, CV & LLMs</h3>
+<h3 align="center">AI Engineer | Computer Vision | Deep Learning | Building Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tensorbytes0202&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,12 +11,12 @@
 
 ## 🧠 About Me
 
-🚀 AI engineering student focused on building **production-ready intelligent systems**
+🚀 AI engineering student focused on **Computer Vision & Deep Learning systems**
 
-* 🤖 Developing **AI Agents, Computer Vision systems & LLM pipelines**
-* 🧠 Specialized in **Deep Learning, Transformers & Multimodal AI**
-* ⚡ Turning complex ideas into **real-world working products**
-* 📈 Actively improving **DSA, System Design & MLOps**
+* 🎯 Specialized in **Real-time Computer Vision & Deep Learning**
+* 🤖 Building **AI Agents + Vision-based intelligent systems**
+* 🧠 Strong interest in **CNNs, Transformers & Multimodal AI**
+* ⚡ Focused on **practical, deployable AI solutions**
 
 ---
 
@@ -28,14 +28,14 @@
 
 ### 🤖 AI / ML
 
-`PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` `HuggingFace Transformers`
+`PyTorch` `TensorFlow` `OpenCV` `Scikit-Learn` `YOLOv8`
 
-### 🧠 Domains
+### 🧠 Core Domains
 
-* Computer Vision → YOLO, Object Tracking, Speed Estimation
-* NLP → BERT, RAG, LLM Systems
-* Deep Learning Architectures
-* AI Agents & Automation
+* Computer Vision → Detection, Segmentation, Tracking
+* Deep Learning → CNN Architectures, Model Optimization
+* NLP → RAG, LLM Systems
+* AI Agents
 
 ### ⚙️ Tools
 
@@ -43,45 +43,65 @@
 
 ---
 
-## 🚀 Featured Work (Pinned Repos)
+## 🚀 Featured Projects (Pinned)
+
+### 🧠 Brain Tumor Segmentation using U-Net
+
+**Medical Image Segmentation System**
+
+* 🧠 U-Net based deep learning architecture
+* 🖼️ Pixel-wise tumor segmentation
+* 📊 Applied on medical imaging dataset
+
+---
+
+### 📊 CNN Architecture Comparison (Tiny ImageNet)
+
+**Deep Learning Research Project**
+
+* 📈 Comparative analysis of CNN models
+* ⚡ Performance benchmarking on Tiny ImageNet
+* 🧠 Understanding architecture efficiency
+
+---
+
+### 🎯 Multi-task Computer Vision Suite (YOLOv8)
+
+**Real-time detection + tracking system**
+
+* 🚗 Object detection + tracking
+* 📈 Speed estimation logic
+* ⚡ Real-time video processing pipeline
+
+---
+
+### 👁️ Computer Vision Projects Collection
+
+**Collection of practical CV implementations**
+
+* 🎯 Detection, tracking & image processing
+* ⚡ Hands-on OpenCV pipelines
+* 🧠 Applied learning repository
+
+---
+
+### 🧠 Deep Learning Implementations
+
+**Core DL concepts & architectures**
+
+* 📚 CNNs and training pipelines
+* ⚡ Model experimentation
+* 🧠 Strong fundamentals building
+
+---
 
 ### 🤖 Jarvis AI Agent
 
-**Voice-enabled intelligent assistant system**
+**Voice-enabled AI assistant**
 
-* 🎙️ Real-time voice command execution
-* ⚡ Automation of system-level tasks
-* 🧠 AI-driven interaction logic
-
----
-
-### 🎯 YOLO Object Detection & Tracking
-
-**Real-time vehicle detection + speed estimation**
-
-* 🚗 Multi-object tracking system
-* 📈 Speed calculation using frame analysis
-* ⚡ Optimized for real-time performance
-
----
-
-### 🏥 Multimodal Medical Chatbot
-
-**AI system combining text + image understanding**
-
-* 🧠 Multimodal deep learning pipeline
-* 📊 Healthcare-oriented predictions
-* ⚡ Practical AI application
-
----
-
-### 🧠 RAG-based LLM System
-
-**Context-aware intelligent response engine**
-
-* 🔍 Retrieval + Generation pipeline
-* 🧠 Custom knowledge integration
-* ⚡ Scalable architecture
+* 🎙️ Voice command system
+* ⚡ Task automation
+* 🧠 Intelligent interaction
 
 ---
 
@@ -100,28 +120,28 @@
 
 ## 📈 Engineering Highlights
 
-* 🚀 Built multiple **end-to-end AI systems**
-* 📊 Worked with **real-time video & data pipelines**
-* ⚡ Focused on **performance optimization & scalability**
-* 🧠 Experience in **multimodal AI + LLM engineering**
-* 🔁 Consistent contributor on GitHub
+* 🚀 Built multiple **Computer Vision systems (Detection + Segmentation)**
+* 📊 Hands-on with **medical imaging + real-time video pipelines**
+* ⚡ Experience in **model training, evaluation & optimization**
+* 🧠 Strong foundation in **CNN architectures**
+* 🔁 Consistent GitHub contributions
 
 ---
 
 ## 🎯 Strengths
 
-✔️ Strong AI/ML fundamentals
+✔️ Computer Vision expertise
+✔️ Deep Learning fundamentals
 ✔️ Real-world project execution
-✔️ End-to-end system building
-✔️ Fast learning & adaptability
+✔️ Problem-solving mindset
 
 ---
 
-## 📈 Currently Exploring
+## 📈 Current Focus
 
-* 🔥 Advanced Transformers & LLMs
-* 🧠 Deep Learning Architectures
-* ⚙️ MLOps & Deployment Pipelines
+* 🔥 Advanced Computer Vision (Tracking + Segmentation)
+* 🧠 Transformers & Vision Models
+* ⚙️ MLOps & Deployment
 * 💼 AI Internship Opportunities
 
 ---
@@ -130,13 +150,12 @@
 
 * 💼 LinkedIn: *Add your link*
 * 📧 Email: *Add your email*
-* 🌐 Portfolio: *Optional*
 
 ---
 
 ## 💡 Mindset
 
-> "I don’t just learn AI — I build systems that solve real-world problems."
+> "I build AI systems that can see, understand, and act."
 
 ---
 
