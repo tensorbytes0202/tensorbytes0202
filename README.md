@@ -147,15 +147,18 @@
 * 💼 AI Internship Preparation
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/aditya-sikarwar-b04892327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sikarwar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:aditya20050202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aditya20050202%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
----
 
 ## 💡 Mindset
 
