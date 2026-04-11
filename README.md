@@ -1,5 +1,12 @@
 <h1 align="center">🚀 Aditya Sikarwar</h1>
-<h3 align="center">AI Engineer | Computer Vision | Deep Learning | Building Intelligent Systems</h3>
+
+<h3 align="center">
+  AI Engineer | Computer Vision | Deep Learning | Building Intelligent Systems
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+AI+Systems+that+See+%F0%9F%91%81%EF%B8%8F;Engineering+Intelligent+Solutions+%F0%9F%A7%A0;Computer+Vision+%7C+Deep+Learning+%7C+LLMs" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tensorbytes0202&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,12 +18,12 @@
 
 ## 🧠 About Me
 
-🚀 AI engineering student focused on building **high-performance Computer Vision & Deep Learning systems**
+🚀 AI engineering student focused on building **high-performance intelligent systems**
 
-* 🎯 Specialized in **Real-time Detection, Segmentation & Tracking**
-* 🤖 Developing **AI Agents + Vision-based intelligent systems**
-* 🧠 Strong foundation in **CNNs, Transformers & Multimodal AI**
-* ⚡ Focused on **efficient, scalable & deployable AI solutions**
+* 🎯 Specialized in **Computer Vision (Detection, Segmentation, Tracking)**
+* 🤖 Developing **AI Agents & Vision-based systems**
+* 🧠 Strong foundation in **Deep Learning, CNNs & Transformers**
+* ⚡ Focused on **real-world, deployable AI solutions**
 
 ---
 
@@ -24,11 +31,11 @@
 
 ### 💻 Languages
 
-`Python` `C++` `JavaScript`
+`Python` `C++` `JavaScript` `Bash` `R`
 
 ### 🤖 AI / ML
 
-`PyTorch` `TensorFlow` `OpenCV` `Scikit-Learn` `YOLOv8`
+`PyTorch` `TensorFlow` `OpenCV` `Scikit-Learn` `YOLOv8` `U-net` `Gan's` `Diffusion models`
 
 ### 🧠 Core Domains
 
@@ -43,68 +50,51 @@
 
 ---
 
-## 🚀 Featured Projects (Pinned)
+## 🚀 Featured Projects
 
 ### 🧠 Brain Tumor Segmentation using U-Net
 
-**Medical Image Segmentation System**
-
-* 🧠 U-Net architecture for pixel-wise segmentation
-* 📊 Achieved **high segmentation accuracy (~90%+)**
-* 🎯 Effective tumor region extraction from MRI scans
-* ⚡ Optimized training pipeline for medical datasets
+* 🧠 U-Net based pixel-level segmentation
+* 📊 Achieved **~90%+ segmentation performance**
+* ⚡ Medical imaging pipeline
 
 ---
 
 ### 📊 CNN Architecture Comparison (Tiny ImageNet)
 
-**Deep Learning Research & Benchmarking**
-
-* 📈 Compared multiple CNN architectures (ResNet, VGG, etc.)
-* ⚡ Evaluated performance on **Tiny ImageNet dataset**
-* 📊 Achieved **significant accuracy improvements via tuning**
-* 🧠 Insights into model efficiency vs performance trade-offs
+* 📈 Compared CNN models (ResNet, VGG, etc.)
+* 📊 Performance benchmarking & analysis
+* 🧠 Model efficiency insights
 
 ---
 
-### 🎯 Multi-task Computer Vision Suite (YOLOv8)
+### 🎯 YOLOv8 Multi-task Computer Vision Suite
 
-**Real-time Detection + Tracking + Speed Estimation**
-
-* 🚗 Real-time object detection (YOLOv8)
-* 📈 Speed estimation using frame-based tracking
-* ⚡ Achieved **~25–30 FPS real-time performance**
-* 🎯 Robust multi-object tracking pipeline
+* 🚗 Real-time object detection & tracking
+* 📈 Speed estimation system
+* ⚡ ~25–30 FPS performance
 
 ---
 
-### 👁️ Computer Vision Projects Collection
+### 👁️ Computer Vision Projects
 
-**Practical CV Implementations**
-
-* 🎯 Implemented detection, tracking & image processing pipelines
-* ⚡ Multiple OpenCV-based real-world use cases
-* 📊 Strong experimentation across datasets
+* 🎯 Detection, tracking, image processing
+* ⚡ OpenCV-based real-world systems
 
 ---
 
 ### 🧠 Deep Learning Implementations
 
-**Core Deep Learning Systems**
-
-* 📚 Implemented CNN architectures from scratch
-* 📈 Model training, tuning & evaluation workflows
-* ⚡ Improved model performance through experimentation
+* 📚 CNN training pipelines
+* ⚡ Model experimentation & tuning
 
 ---
 
 ### 🤖 Jarvis AI Agent
 
-**Voice-enabled Intelligent Assistant**
-
-* 🎙️ Real-time voice command processing
-* ⚡ Automated system-level tasks
-* 🧠 Integrated AI-based response system
+* 🎙️ Voice-controlled assistant
+* ⚡ Automation system
+* 🧠 AI-based interaction
 
 ---
 
@@ -112,54 +102,66 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tensorbytes0202&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tensorbytes0202&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=tensorbytes0202&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensorbytes0202&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tensorbytes0202&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tensorbytes0202&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
 ## 📈 Engineering Metrics & Impact
 
-* 🚀 Built **6+ AI/Deep Learning projects**
-* 📊 Worked with **real-time video + medical imaging datasets**
-* ⚡ Achieved **~25–30 FPS in real-time CV systems**
-* 🎯 Developed **end-to-end pipelines (data → model → inference)**
-* 🧠 Strong hands-on with **model evaluation & optimization**
-* 🔁 Consistent GitHub contributions & active development
+* 🚀 Built **6+ AI & Deep Learning projects**
+* 📊 Experience with **real-time video & medical datasets**
+* ⚡ Achieved **~25–30 FPS in CV systems**
+* 🎯 Developed **end-to-end ML pipelines**
+* 🧠 Strong experience in **model evaluation & optimization**
+* 🔁 Active & consistent GitHub contributor
 
 ---
 
 ## 🎯 Strengths
 
-✔️ Computer Vision & Deep Learning expertise
-✔️ Real-world project building
-✔️ End-to-end AI system design
-✔️ Strong problem-solving ability
+✔️ Computer Vision & Deep Learning
+✔️ Real-world AI system building
+✔️ End-to-end pipeline development
+✔️ Fast learning & execution
 
 ---
 
 ## 📈 Current Focus
 
-* 🔥 Advanced Computer Vision (Tracking, Segmentation)
+* 🔥 Advanced Computer Vision
 * 🧠 Transformers & Vision Models
 * ⚙️ MLOps & Deployment
-* 💼 AI Internship Opportunities
+* 💼 AI Internship Preparation
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: *Add your link*
-* 📧 Email: *Add your email*
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
 ## 💡 Mindset
 
-> "I build AI systems that can see, understand, and act."
+<p align="center">
+  <b>"I build AI systems that can see, understand, and act."</b>
+</p>
 
 ---
 
