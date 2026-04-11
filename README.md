@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Aditya Sikarwar</h1>
-<h3 align="center">AI Engineer | Machine Learning | Deep Learning | Building Intelligent Systems</h3>
+<h3 align="center">AI Engineer | Building Intelligent Systems with AI, CV & LLMs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tensorbytes0202&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,73 +11,81 @@
 
 ## 🧠 About Me
 
-🚀 AI-focused engineering student passionate about building **real-world intelligent systems at scale**
+🚀 AI engineering student focused on building **production-ready intelligent systems**
 
-- 🤖 Building **AI Agents, Computer Vision Systems & LLM Pipelines**
-- 🧠 Strong focus on **Deep Learning, Transformers & Multimodal AI**
-- ⚡ Turning ideas into **production-ready AI solutions**
-- 📈 Currently mastering **DSA + System Design + MLOps**
+* 🤖 Developing **AI Agents, Computer Vision systems & LLM pipelines**
+* 🧠 Specialized in **Deep Learning, Transformers & Multimodal AI**
+* ⚡ Turning complex ideas into **real-world working products**
+* 📈 Actively improving **DSA, System Design & MLOps**
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 💻 Languages
+
 `Python` `C++` `JavaScript`
 
 ### 🤖 AI / ML
+
 `PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` `HuggingFace Transformers`
 
-### 🧠 Core Expertise
-- Computer Vision → YOLO, CNN, Real-time Detection  
-- NLP → BERT, RAG, LLM Systems  
-- Deep Learning Architectures  
-- AI Agents & Automation Systems  
+### 🧠 Domains
 
-### ⚙️ Tools & Platforms
+* Computer Vision → YOLO, Object Tracking, Speed Estimation
+* NLP → BERT, RAG, LLM Systems
+* Deep Learning Architectures
+* AI Agents & Automation
+
+### ⚙️ Tools
+
 `Git` `GitHub` `Docker` `VS Code` `Google Colab`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work (Pinned Repos)
 
 ### 🤖 Jarvis AI Agent
-**AI-powered automation assistant**
 
-- 🎙️ Voice-controlled command system  
-- ⚡ Real-time task execution  
-- 🧠 Intelligent response handling  
+**Voice-enabled intelligent assistant system**
 
----
-
-### 🏥 Medical Diagnosis Multimodal Chatbot
-**Text + Image based AI system**
-
-- 🧠 Multimodal deep learning pipeline  
-- 📊 Healthcare-focused predictions  
-- ⚡ Real-world AI application  
+* 🎙️ Real-time voice command execution
+* ⚡ Automation of system-level tasks
+* 🧠 AI-driven interaction logic
 
 ---
 
-### 🎯 YOLO Object Detection System
-**High-performance real-time detection**
+### 🎯 YOLO Object Detection & Tracking
 
-- 🚗 Vehicle detection & tracking  
-- 📈 Speed estimation system  
-- ⚡ Optimized CV pipeline  
+**Real-time vehicle detection + speed estimation**
 
----
-
-### 🧠 RAG Pipelines (LLM Engineering)
-**Retrieval-Augmented Generation System**
-
-- 🔍 Context-aware AI responses  
-- 🧠 Custom knowledge integration  
-- ⚡ Scalable LLM pipeline  
+* 🚗 Multi-object tracking system
+* 📈 Speed calculation using frame analysis
+* ⚡ Optimized for real-time performance
 
 ---
 
-## 📊 GitHub Analytics
+### 🏥 Multimodal Medical Chatbot
+
+**AI system combining text + image understanding**
+
+* 🧠 Multimodal deep learning pipeline
+* 📊 Healthcare-oriented predictions
+* ⚡ Practical AI application
+
+---
+
+### 🧠 RAG-based LLM System
+
+**Context-aware intelligent response engine**
+
+* 🔍 Retrieval + Generation pipeline
+* 🧠 Custom knowledge integration
+* ⚡ Scalable architecture
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tensorbytes0202&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -90,54 +98,46 @@
 
 ---
 
-## 🧠 Contribution Graph
+## 📈 Engineering Highlights
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensorbytes0202&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📈 Engineering Metrics
-
-- 🚀 Multiple AI projects deployed end-to-end  
-- 📊 Hands-on with real-time data pipelines  
-- ⚡ Strong focus on performance & optimization  
-- 🧠 Experience with multimodal AI systems  
-- 🔁 Consistent GitHub contributions  
+* 🚀 Built multiple **end-to-end AI systems**
+* 📊 Worked with **real-time video & data pipelines**
+* ⚡ Focused on **performance optimization & scalability**
+* 🧠 Experience in **multimodal AI + LLM engineering**
+* 🔁 Consistent contributor on GitHub
 
 ---
 
-## 🎯 What I Bring
+## 🎯 Strengths
 
-✔️ Strong AI/ML fundamentals  
-✔️ Real-world project building mindset  
-✔️ End-to-end system design capability  
-✔️ Fast learner with execution focus  
-
----
-
-## 📈 Current Focus
-
-- 🔥 Transformers & LLM Mastery  
-- 🧠 Advanced Deep Learning Architectures  
-- ⚙️ MLOps & Model Deployment  
-- 💼 Preparing for AI Internships  
+✔️ Strong AI/ML fundamentals
+✔️ Real-world project execution
+✔️ End-to-end system building
+✔️ Fast learning & adaptability
 
 ---
 
-## 🤝 Let's Connect
+## 📈 Currently Exploring
 
-- 💼 LinkedIn: *Add your link*
-- 📧 Email: *Add your email*
-- 🌐 Portfolio: *Add if available*
-
----
-
-## 💡 Developer Mindset
-
-> "I don’t just study AI — I engineer intelligent systems that solve real-world problems."
+* 🔥 Advanced Transformers & LLMs
+* 🧠 Deep Learning Architectures
+* ⚙️ MLOps & Deployment Pipelines
+* 💼 AI Internship Opportunities
 
 ---
 
-⭐ If you like my work, consider giving a star!
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: *Add your link*
+* 📧 Email: *Add your email*
+* 🌐 Portfolio: *Optional*
+
+---
+
+## 💡 Mindset
+
+> "I don’t just learn AI — I build systems that solve real-world problems."
+
+---
+
+⭐ If you like my work, consider starring repositories!
